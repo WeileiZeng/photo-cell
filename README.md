@@ -1,6 +1,4 @@
 # photo-cell
-Combine photos to see what we can made out of it; and interpret a photo in different ways.
-
 In this project, I use thousands of photos as 'pixels' to create/map one big background photo. Those are not exact pixels in the background photo, but an amount of pixels in some given rectangular area of the backgournd photo. Hence, I call it cells, and reach the name of this project 'photo-cell'
 
 
